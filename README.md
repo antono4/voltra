@@ -1,5 +1,8 @@
 # Voltra ⚡
 
+> **Created by Antono**
+
+
 ![Voltra Preview](voltra-assets/hero-car.jpg)
 
 VOLTRA - Premium Electric Mobility Indonesia
