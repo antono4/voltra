@@ -1,17 +1,17 @@
 <!-- README ini dihasilkan otomatis oleh .github/workflows/generate-readme.yml -->
 <!-- Jangan edit manual: perubahan akan ditimpa pada run berikutnya. -->
 
-<h1 align="center">VOLTRA. | Mobilitas Listrik Premium 👋</h1>
+<h1 align="center">VOLTRA. 👋</h1>
 
 <p align="center">
-  <strong>Terima kasih! Tim VOLTRA akan menghubungi Anda dalam 24 jam.</strong>
+  <em>VOLTRA - Mobilitas listrik premium Indonesia</em>
 </p>
 
 <p align="center">
   <a href="https://github.com/antono4/voltra"><img alt="GitHub repo" src="https://img.shields.io/badge/GitHub-antono4/voltra-blue?logo=github"></a>
   <a href="https://antono4.github.io/voltra/"><img alt="Live Demo" src="https://img.shields.io/badge/Live%20Demo-Online-success?logo=githubpages"></a>
   <img alt="Files" src="https://img.shields.io/badge/Files-11-informational">
-  <img alt="Updated" src="https://img.shields.io/static/v1?label=Updated&message=2026-09-16%2010%3A38%3A33%20WIB&color=lightgrey">
+  <img alt="Updated" src="https://img.shields.io/static/v1?label=Updated&message=2026-09-16%2010%3A43%3A17%20WIB&color=lightgrey">
 </p>
 
 ---
@@ -69,4 +69,4 @@ Proyek ini dilisensikan di bawah MIT License — lihat berkas [`LICENSE`](./LICE
 
 ---
 
-<sub>README ini di-generate otomatis pada **2026-09-16 10:38:33 WIB** oleh GitHub Actions `.github/workflows/generate-readme.yml`.</sub>
+<sub>README ini di-generate otomatis pada **2026-09-16 10:43:17 WIB** oleh GitHub Actions `.github/workflows/generate-readme.yml`.</sub>
