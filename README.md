@@ -10,8 +10,8 @@
 <p align="center">
   <a href="https://github.com/antono4/voltra"><img alt="GitHub repo" src="https://img.shields.io/badge/GitHub-antono4/voltra-blue?logo=github"></a>
   <a href="https://antono4.github.io/voltra/"><img alt="Live Demo" src="https://img.shields.io/badge/Live%20Demo-Online-success?logo=githubpages"></a>
-  <img alt="Files" src="https://img.shields.io/badge/Files-13-informational">
-  <img alt="Updated" src="https://img.shields.io/badge/Updated-2026-09-29 04:54:14 WIB-lightgrey">
+  <img alt="Files" src="https://img.shields.io/badge/Files-16-informational">
+  <img alt="Updated" src="https://img.shields.io/badge/Updated-2026-09-29 10:12:41 WIB-lightgrey">
 </p>
 
 ---
@@ -37,7 +37,7 @@ Berdasarkan isi repository, proyek ini menggunakan:
 - `CSS`
 - `JavaScript`
 
-> Total **13 file** terdeteksi di repository.
+> Total **16 file** terdeteksi di repository.
 
 ## 🚀 Menjalankan Secara Lokal
 
@@ -63,4 +63,4 @@ Lihat berkas [`LICENSE`](./LICENSE) untuk informasi lisensi.
 
 ---
 
-<sub>README ini di-generate otomatis pada **2026-09-29 04:54:14 WIB** oleh GitHub Actions `.github/workflows/generate-readme.yml`.</sub>
+<sub>README ini di-generate otomatis pada **2026-09-29 10:12:41 WIB** oleh GitHub Actions `.github/workflows/generate-readme.yml`.</sub>
